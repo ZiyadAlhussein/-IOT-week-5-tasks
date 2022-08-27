@@ -1,7 +1,5 @@
 # -IOT-week-5-tasks
-Task 4: Control robot movement using a website
-
-## Task 4: Control robot movement using a website:
+**Task 4: Control robot movement using a website**
 In this task we have made a website with buttons to control the robot, either move forward/backward or turn right/left
 ![image](https://user-images.githubusercontent.com/108147030/187029365-e9747878-b85b-4868-a539-2cca64637a10.png)
 
