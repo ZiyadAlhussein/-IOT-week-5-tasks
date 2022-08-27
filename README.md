@@ -1,6 +1,14 @@
 # -IOT-week-5-tasks
 **Task 4: Control robot movement using a website**
 
+Download XAMPP: https://www.apachefriends.org/
+Download phpMyAdmin: https://www.phpmyadmin.net/
+
+Open XAMPP click on start for Apache and MySQL then go to your browser and type http://localhost/ to go to phpMyAdmin web page:
+
+![image](https://user-images.githubusercontent.com/108147030/187031106-395cd591-304d-458c-bd34-c35623578afd.png)
+
+
 In this task we have made a website with buttons to control the robot, either move forward/backward or turn right/left
 ![image](https://user-images.githubusercontent.com/108147030/187029365-e9747878-b85b-4868-a539-2cca64637a10.png)
 
